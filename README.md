@@ -324,7 +324,7 @@ VIF > 10 signals severe multicollinearity — the affected coefficient's standar
 
 **Vedant**
 PG-DBDA Student | C-DAC Kharghar, Navi Mumbai
-[LinkedIn](#) | [GitHub](#)
+[LinkedIn](https://www.linkedin.com/in/vedant-gajbhiye-264299205/) | [GitHub](https://github.com/Vedant560)
 
 ---
 
